@@ -8,7 +8,7 @@
   <p align="center">
     Still a newbie who always want to learn new things!
     <br />
-  <a href="https://github.com/hafcnw/apeeeeeeet.git"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/hafcnw/apeeeeeeet.git"><strong>Look at my project --></strong></a>
 </p>
 
 #### Still learning :
