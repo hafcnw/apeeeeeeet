@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+body {
+   font-family: 'Oswald', sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: #a7c4bc;
+}
+
+main {
+   padding:  10px;
+   overflow: auto;
+   text-align:  justify;
+}
+h2, h3 {
+   color: #2f5d62;
+   text-align:  center;
+}
+footer {
+   padding: 20px;
+   color: #dfeeea;
+   background-color: #2f5d62;
+   text-align: center;
+   font-weight: 700;
+}
+nav a {
+   font-size: 18px;
+   font-weight: 400;
+   text-decoration: none;
+   color: #dfeeea;
+}
+nav a:hover {
+   font-weight: 700;
+}
+.profile header {
+   text-align: center;
+}
+.featured-image {
+   width: 100%;
+   max-height: 300px;
+   object-fit: cover;
+   object-position: center;
+}
+.profile img {
+   width: 100%;
+}
+.card {
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+   border-radius: 20px;
+   padding: 20px;
+   margin-top: 20px;
+   background-color: white
+}
+
+.jumbotron {
+   font-size: 20px;
+   padding:  10px;
+   background-color: #2f5d62;
+   text-align: center;
+   color: #dfeeea;
+}
+
+nav li {
+   display: inline;
+   list-style-type: none;
+   margin-right: 20px;
+}
+nav {
+   background-color: #5e8b7e;
+   padding: 5px;
+   position: sticky;
+   top: 0;
+   text-align: center;
+}
+#content {
+   float: left;
+   width: 75%}
+
+aside {
+   float: right;
+   width: 25%;
+   padding-left: 20px;
+}
+* {
+   box-sizing: border-box;
+}
+@media screen and (max-width:1000px) {
+   #content, aside {
+    width: 100%;
+    padding: 0;
+   }
+}
+
+header{
+   display: inline;
+}
