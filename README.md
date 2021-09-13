@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://github.com/hafcnw/apeeeeeeet/blob/2fcb75df614fa2e8899c8e949386fbdd28143670/Welcome%20to%20my%20repository!.png" alt="Banner" width="480" height="240">
+    <img src="https://github.com/hafcnw/apeeeeeeet/blob/a5f0bccf53d7fba213b13fbf74e5e194ddfbbc30/Welcome%20to%20my%20repository!.gif" alt="Banner" width="480" height="240">
   </a>
 
   <h1 align="center">Apit Repository</h1>
